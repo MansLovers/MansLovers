@@ -19,7 +19,7 @@
 
 ![Coding Gif](/assets/programmer.gif)
 
-🎭 I am Nyoman/Adit/Mans - a skilled diver and a bit naughty too. I use GitHub to collect databases, mainly for 18+. GitHub is just a place to store them, and I'll create a database for games, hopefully.
+🎭 I am Nyoman/Adit/Mans - a skilled diver and a bit naughty too. I use GitHub to collect databases, mainly for 18+. GitHub is just a place to store them, and I'll create a database for games, hopefully. and I'm a big fan of Dika Ardant 
 
 ## Technologies I Use
 
