@@ -31,6 +31,6 @@
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 [![Mans Lovers Readme](https://github-readme-stats.vercel.app/api/pin/?username=MansLovers&repo=MansLovers&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MansLovers/MansLovers)
+[![Mans Lovers Readme](https://github-readme-stats.vercel.app/api/pin/?username=MansLovers&repo=MansBase&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MansLovers/MansBase)
 
 [See All Repositories](https://github.com/MansLovers?tab=repositories)
-[See All Repositories](https://github.com/MansBase?tab=repositories)
