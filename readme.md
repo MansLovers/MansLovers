@@ -29,7 +29,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Mans+Lovers">「 Google Me 」</a>
     <br>
     「 I am a WhatsApp Bot database developer Only 18+ <b>Indonesian</b> 」
     <br>
@@ -38,15 +37,6 @@
 </p>
 
 <p align="center">
- <a href="https://wa.me/6283129240927" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="MansLovers" />
- </a>
- <!-- <a href="https://wa.me/6283129240927" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="MansLovers" />
- </a> -->
- <a href="https://twitter.com/AtamanBOYS" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
  <a href="https://instagram.com/mans_xyme" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="MansLovers" />
  </a> 
@@ -62,10 +52,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Aditpetani9@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/MansLovers/MansLovers/issues)
+ 🎭 &emsp; Saya Adalah Nyoman/Adit/Mans Bebas Mangil saya siapa, Sy Seorang Penyelam Handal (Searching Adalah Karya :v) Selain Itu sy juga nakal sih, sisanya ya tau lah, sy membuay github untuk mengumpulkan semua database atau 18+ :v, github hanya untuk menaruh itu saja :v dan database Game akan ku buat semoga bisa<br/><br/>
 
 </p>
 
