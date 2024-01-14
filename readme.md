@@ -84,10 +84,6 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=MansLovers&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MansLovers/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=MansLovers&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MansLovers/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=MansLovers&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MansLovers/web-projects)
 [![Mans Lovers Readme](https://github-readme-stats.vercel.app/api/pin/?username=MansLovers&repo=MansLovers&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MansLovers/MansLovers)
 
 <p align="left">
@@ -97,24 +93,3 @@
 <br/>
 <hr/>
 <br/>
-
-<p align="center">
-  <a href="https://github.com/MansLovers">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansLovers&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MansLovers">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansLovers&theme=radical" alt="Mans Lover's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/MansLovers"><img alt="Mans Lovers's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MansLovers&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/MansLovers"><img alt="Mans Lovers's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MansLovers&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Mans Lovers's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MansLovers&custom_title=Mans%20Lover's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
