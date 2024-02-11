@@ -6,7 +6,7 @@
 
 ## Hey there! I am [MansLovers](https://wa.me/6283129240927)
 
-- 🌐 Indonesian WhatsApp Bot Database Developer (18+ Only)
+- 🌐 Indonesian WhatsApp Bot Database Developer
 - 💻 Self-taught programmer and Front-End Developer
 - 📈 1.5+ years of coding experience
 
@@ -19,7 +19,7 @@
 
 ![Coding Gif](/assets/programmer.gif)
 
-🎭 I am Nyoman/Adit/Mans - a skilled diver and a bit naughty too. I use GitHub to collect databases, mainly for 18+. GitHub is just a place to store them, and I'll create a database for games, hopefully. and I'm a big fan of Dika Ardant 
+🎭 I am Nyoman, my hobby is coding (WhatsApp Bot) and I really like the internet cafe where I code, I am 17 years old, I'm very stupid when it comes to functions
 
 ## Technologies I Use
 
@@ -29,8 +29,5 @@
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-[![Mans Lovers Readme](https://github-readme-stats.vercel.app/api/pin/?username=MansLovers&repo=MansLovers&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MansLovers/MansLovers)
-[![Mans Lovers Readme](https://github-readme-stats.vercel.app/api/pin/?username=MansLovers&repo=MansBase&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MansLovers/MansBase)
 
 [See All Repositories](https://github.com/MansLovers?tab=repositories)
